@@ -1,0 +1,21 @@
+.button {
+    display: block;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    appearance: none;
+    cursor: pointer;
+
+    &--medium {
+        font-size: 1em;
+    }
+
+    &--medium {
+        font-size: 2.4em;
+    }
+
+    &--large {
+        font-size: 4.8em;
+    }
+}
